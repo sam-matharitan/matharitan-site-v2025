@@ -1,16 +1,3 @@
-# Allow major search engines explicitly
-User-agent: Googlebot
-Disallow:
-
-User-agent: Bingbot
-Disallow:
-
-User-agent: DuckDuckBot
-Disallow:
-
-User-agent: Baiduspider
-Disallow:
-
 # Block known AI and scraping bots
 User-agent: GPTBot
 Disallow: /
