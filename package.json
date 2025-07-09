@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sam-matharitan.github.io/matharitan-site-v2025",
+  "homepage": "https://sam-matharitan.github.io/matharitan-site-v2025/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

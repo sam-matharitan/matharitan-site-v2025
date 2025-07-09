@@ -1,0 +1,29 @@
+/* src/Logo.css */
+
+.logo {
+  display: block;
+  margin-left: 1rem;
+  margin-bottom: 0rem;
+}
+
+@keyframes floatCustom {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(var(--tx), var(--ty));
+  }
+}
+
+@keyframes floatLine {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(var(--tx), var(--ty));
+  }
+}
+
+line {
+  transform-origin: top;
+}
